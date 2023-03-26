@@ -17,7 +17,7 @@ share: true
 owner:
   name:   Taylor Clark
   avatar: avatar.png
-  favicon: https://github.com/taylor-clark6/BabelNYC/blob/ad69f03f43fa58e10165f93056fb76a8d375fac5/img/favicon-32x32.png
+  favicon: favicon-16x16.png
   info: Creativity assignment
 
 # Settings for comments helper
