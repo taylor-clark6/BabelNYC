@@ -3,7 +3,7 @@ title: BabelNYC
 email: "tclark38@fordham.edu"
 description: "Photo Journal examining the many languages in NYC"
 url: "https://taylor-clark6.github.io"
-baseurl: "/BabelNYC/"
+baseurl: "/BabelNYC"
 facebook_username: false
 twitter_username: false
 instagram_username: false
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://taylor-clark6.github.io/BabelNYC/gallery/"  
+  - JOURNAL: "https://taylor-clark6.github.io/BabelNYC/journal/"
+  - ABOUT: "https://taylor-clark6.github.io/BabelNYC/about/"
 
 # All translation keys
 translations:
