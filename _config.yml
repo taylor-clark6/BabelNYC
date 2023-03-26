@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
+title: BabelNYC
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Photo Journal examining the many languages in NYC"
+url: "https://taylor-clark6.github.io"
+baseurl: "/BabelNYC/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "taylor-clark6"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Taylor Clark
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Creativity assignment
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,7 +27,7 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
