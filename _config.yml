@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://taylor-clark6.github.io/BabelNYC/gallery/"  
-  - JOURNAL: "https://taylor-clark6.github.io/BabelNYC/journal/"
-  - ABOUT: "https://taylor-clark6.github.io/BabelNYC/about/"
+  - ABOUT: "https://taylor-clark6.github.io/BabelNYC/journal/"
+  - CREATOR: "https://taylor-clark6.github.io/BabelNYC/about/"
 
 # All translation keys
 translations:
