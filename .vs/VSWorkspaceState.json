@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\gallery",
-    "\\img",
     "\\img\\galleries",
-    "\\img\\galleries\\g01"
+    "\\img\\galleries\\g01",
+    "\\journal",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\gallery\\index.html",
+  "SelectedNode": "\\_layouts\\page.html",
   "PreviewInSolutionExplorer": false
 }
